@@ -1,45 +1,16 @@
-# 🚇 CityFlow - Aplicación de Gestión del Metrobus Puebla
+# cityflow
 
-**CityFlow** es una aplicación móvil desarrollada en **Flutter** con arquitectura **MVVM** y un backend basado en **Node.js + Firebase**, diseñada para facilitar la administración de tarjetas de transporte, consulta de rutas y estaciones, recarga de saldo y gestión de notificaciones para usuarios del Metrobus de Puebla.
+A new Flutter project.
 
----
+## Getting Started
 
-## 📌 Funcionalidades principales
+This project is a starting point for a Flutter application.
 
-- Recarga de saldo rápida y segura.
-- Consulta de rutas y estaciones de las distintas líneas.
-- Búsqueda de estaciones específicas o cercanas.
-- Inicio de sesión y gestión de perfil de usuario.
-- Historial de recargas y rutas favoritas.
-- Notificaciones en tiempo real.
-- Panel administrativo para gestión de estaciones, usuarios y reportes.
+A few resources to get you started if this is your first Flutter project:
 
----
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## 🏗 Arquitectura
-
-La aplicación implementa una **arquitectura Cliente-Servidor**:
-
-- **Frontend (Flutter)**: Interfaces de usuario intuitivas y multiplataforma.
-- **Backend (Node.js + Express)**: API RESTful para autenticación, gestión de datos y operaciones.
-- **Base de datos (Firebase)**: Almacenamiento de datos de usuarios, transacciones y rutas.
-- **Geolocalización (Google Maps SDK)**: Mapa interactivo con rutas y estaciones.
-- **Mensajería en tiempo real (Firebase Cloud Messaging)**: Notificaciones de recargas y alertas.
-
----
-
-## 🚀 Tecnologías utilizadas
-- **Frontend**: Flutter, Dart  
-- **Backend**: Node.js, Express  
-- **Base de datos**: Firebase Realtime Database  
-- **Mapas y geolocalización**: Google Maps SDK  
-- **Arquitectura**: MVVM  
-- **Autenticación**: Firebase Authentication  
-- **Notificaciones**: Firebase Cloud Messaging  
-
----
-
-## 📂 Instalación y configuración
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/HugoLavoe/cityflow.git
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
