@@ -42,4 +42,4 @@ La aplicación implementa una **arquitectura Cliente-Servidor**:
 ## 📂 Instalación y configuración
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/cityflow.git
+   git clone https://github.com/HugoLavoe/cityflow.git
